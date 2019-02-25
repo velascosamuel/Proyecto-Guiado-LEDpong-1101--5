@@ -1,4 +1,4 @@
-# Proyecto-Guiado-LEDpong-1101--5
+# Proyecto-Guiado-LED-Pong-1101--5
 ## Integrantes
   + Samuel Velasco Arango- Lider y Constructor
   + Nicolas Mejia Peña- Programador
